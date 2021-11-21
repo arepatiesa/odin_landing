@@ -94,3 +94,18 @@ font-size: 24px;
     width: 150px;
     height: auto;
 }
+
+#msg{
+background-color: #E5E7EB;
+color: #90959c;
+font-size: 36px;
+font-style: italic;
+font-weight: lighter;
+padding: 100px 200px 100px 200px;
+
+}
+.name{
+    color: #1F2637;
+    font-weight: 500;
+    text-align: end;
+}
